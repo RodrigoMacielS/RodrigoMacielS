@@ -4,7 +4,7 @@
 
 -Estou estudando na [Alura](https://www.alura.com.br).
 
--Estou realizando a unidade do Github.
+-Realizando a unidade do Github.
 
 -Esse perfil serve para o compartilhamento dos projetos realizados.
 
