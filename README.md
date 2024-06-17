@@ -1,11 +1,13 @@
-## Boas vindas ao meu perfil.
+### Boas vindas ao meu perfil.
 
  Me chamo Rodrigo.
 
-*Estou realizando a unidade do Github.
+Estou estudando na [Alura] (https://www.alura.com.br)
 
-*Esse perfil serve para o compartilhamento dos projetos realizados.
+-Estou realizando a unidade do Github.
 
-![](https://media1.tenor.com/m/a4B3gu0RUl8AAAAd/slay-queen.gif)
+-Esse perfil serve para o compartilhamento dos projetos realizados.
+
+![](https://media1.tenor.com/m/v54pniNugp8AAAAC/sharing-share.gif)
 
 
