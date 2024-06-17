@@ -2,7 +2,7 @@
 
  Me chamo Rodrigo.
 
-Estou estudando na [Alura] (https://www.alura.com.br)
+Estou estudando na [Alura](https://www.alura.com.br)
 
 -Estou realizando a unidade do Github.
 
