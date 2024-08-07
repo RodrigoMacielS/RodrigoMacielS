@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil.
 
- *Me chamo Rodrigo.*
+ **Me chamo Rodrigo.**
 
 -Estou estudando na [Alura](https://www.alura.com.br).
 
